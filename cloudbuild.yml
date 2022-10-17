@@ -1,0 +1,4 @@
+steps:
+  # Deploy
+- name: 'gcr.io/k8s-stage-365508/cnc:v1'
+  arg: ['deploy']
